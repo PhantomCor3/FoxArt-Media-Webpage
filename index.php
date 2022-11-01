@@ -1,0 +1,10 @@
+<?php include('php/secction/header.php') ?>
+<?php include('php/secction/slider.php') ?>
+<?php include('php/secction/seccion-services.php') ?>
+<?php include('php/secction/seccion-about1.php') ?>
+<?php include('php/secction/seccion-gallery.php') ?>
+<?php include('php/secction/seccion-bg1.php') ?>
+<?php include('php/secction/seccion-socialmedia.php') ?>
+<?php include('php/secction/seccion-form.php') ?>
+<?php include('php/secction/seccion-bg2.php') ?>
+<?php include('php/secction/footer.php') ?>
