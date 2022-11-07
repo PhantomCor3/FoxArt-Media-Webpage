@@ -219,8 +219,7 @@ button:focus {
 }
 
 .header-transparent .xs-header.header-main {
-    background-color: /* #0000*/
-    transparent;
+    background-color: #0000;
     border-bottom: 0px;
     -webkit-box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.1);
     box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.1);
@@ -646,7 +645,7 @@ button:focus {
     -webkit-transform: translateY(-100%);
     -ms-transform: translateY(-100%);
     transform: translateY(-100%);
-    background-color: #0000;
+    background-color: rgb(0, 0, 0);
     top: -1px;
     width: 100%;
 }
