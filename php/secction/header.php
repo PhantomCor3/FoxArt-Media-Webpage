@@ -30,7 +30,7 @@
 
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900%7COpen+Sans:400,700,700i" rel="stylesheet">
 
-    <link rel="icon" type="image/png" href="favicon.ico">
+    <link rel="icon" type="images/png" href="images/favicon.ico">
     <!-- Place favicon.ico in the root directory -->
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
     <link rel="stylesheet" href="css/font-awesome.min.css">
