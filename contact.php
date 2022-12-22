@@ -1,4 +1,5 @@
 <?php include('php/secction/header.php') ?>
+<?php include('php/secction/top-header.php') ?>
 
 <!-- inner banenr start -->
 <!--breadcumb start here-->
@@ -17,7 +18,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="banner-image" style="background-image:url('assets/images/backgrounds/background-1.jpg')"></div>
+	<div class="banner-image" style="background-image:url('images/backgrounds/background-1.jpg')"></div>
 </section>
 <!--breadcumb end here--><!-- inner banenr end -->
 
@@ -42,7 +43,7 @@
                                 <div class="round-icon">
                                     <i class="icon icon-map-marker2"></i>
                                 </div><!-- .round-icon END -->
-                                <a href="https://www.google.com/maps/place/New+York,+NY,+USA/@40.6971494,-74.2598712,10z/data=!3m1!4b1!4m5!3m4!1s0x89c24fa5d33f083b:0xc80b8f06e177fe62!8m2!3d40.7127753!4d-74.0059728" target="_blank" class="info-content">189 Matex Street, Badly Avenue New York, NY-12548</a>
+                                <!//a href="https://www.google.com/maps/place/New+York,+NY,+USA/@40.6971494,-74.2598712,10z/data=!3m1!4b1!4m5!3m4!1s0x89c24fa5d33f083b:0xc80b8f06e177fe62!8m2!3d40.7127753!4d-74.0059728" target="_blank" class="info-content">189 Matex Street, Badly Avenue New York, NY-12548</a>
                             </div><!-- .single-contact-info END -->
                         </div>
                         <div class="col-lg-4 col-md-6">
@@ -71,11 +72,11 @@
 </section><!-- end contact info -->
 
 <!-- map area strart -->
-<div class="map-area">
+<!--div class="map-area">
     <div class="container">
         <div class="xs-map map" id="map-1"></div>
     </div><!-- .container END -->
-</div><!-- end map area -->
+<!--div--><!-- end map area -->
 
 <!-- contact strart -->
 <section class="xs-section-padding">
@@ -147,5 +148,4 @@
 </section><!-- end call to action section -->
 
 
-<?php include('php/secction/seccion-extra.php') ?>
 <?php include('php/secction/footer.php') ?>

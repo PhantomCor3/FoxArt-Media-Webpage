@@ -231,7 +231,7 @@ button:focus {
 }
 
 .header-transparent .xs-header.header-main .xs-menus .nav-menu>li.active>a {
-    color: #181818;
+    color: #ffffff;
 }
 
 .header-transparent .xs-header.header-main .xs-menus .nav-menu>li.active>a .submenu-indicator-chevron {
@@ -2867,7 +2867,7 @@ button:focus {
 .single-funfact>span {
     font-size: 3.2rem;
     font-family: "Lato", sans-serif;
-    color: #0000;
+    color: rgb(9, 9, 9);
     font-weight: 700;
     letter-spacing: -1.2px;
     display: inline-block;

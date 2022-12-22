@@ -104,22 +104,27 @@
                             </div>
                             <div class="nav-menus-wrapper">
                                 <ul class="nav-menu align-to-right">
-                                    <li><a href="#">HOME</a>
+                                    <li><a href="index.php">HOME</a>
+                                    <li><a href="about.php">ABOUT</a>
+                                    <li><a href="#">SERVICES</a>
                                         <ul class="nav-dropdown xs-icon-menu clearfix">
                                             <li class="single-menu-item">
-                                                <a href="index.html"><i class="icon icon-home2"></i> Home 1</a>
+                                                <a href="email-marketing.php"><i class="icon icon-envelope2"></i> Email Marketing</a>
                                             </li>
                                             <li class="single-menu-item">
-                                                <a href="index-2.html"><i class="icon icon-home2"></i> Home 2</a>
+                                                <a href="offline-seo.html"><i class="icon icon-dart-board"></i> Offline SEO</a>
                                             </li>
                                             <li class="single-menu-item">
-                                                <a href="index-3.html"><i class="icon icon-home2"></i> Home 3</a>
+                                                <a href="social-media-marketing.html"><i class="icon icon-like"></i> Social Media Marketing</a>
                                             </li>
                                             <li class="single-menu-item">
-                                                <a href="index-4.html"><i class="icon icon-home3"></i> One Page Style</a>
+                                                <a href="lead-generation.html"><i class="icon icon-stats-3"></i> Lead Generation</a>
                                             </li>
                                             <li class="single-menu-item">
-                                                <a href="index-5.html"><i class="icon icon-home3"></i> One Page Style Two</a>
+                                                <a href="growth-hacking.html"><i class="icon icon-stats-4"></i> Growth Hacking</a>
+                                            </li>
+                                            <li class="single-menu-item">
+                                                <a href="search-engine-optimization.html"><i class="icon icon-search2"></i> Search Engine Optimization</a>
                                             </li>
                                         </ul>
                                     </li>
@@ -171,42 +176,7 @@
                                             </div>
                                         </div>
                                     </li>
-                                    <li><a href="#">SERVICES</a>
-                                        <ul class="nav-dropdown xs-icon-menu clearfix">
-                                            <li class="single-menu-item">
-                                                <a href="email-marketing.html"><i class="icon icon-envelope2"></i> Email Marketing</a>
-                                            </li>
-                                            <li class="single-menu-item">
-                                                <a href="offline-seo.html"><i class="icon icon-dart-board"></i> Offline SEO</a>
-                                            </li>
-                                            <li class="single-menu-item">
-                                                <a href="social-media-marketing.html"><i class="icon icon-like"></i> Social Media Marketing</a>
-                                            </li>
-                                            <li class="single-menu-item">
-                                                <a href="lead-generation.html"><i class="icon icon-stats-3"></i> Lead Generation</a>
-                                            </li>
-                                            <li class="single-menu-item">
-                                                <a href="growth-hacking.html"><i class="icon icon-stats-4"></i> Growth Hacking</a>
-                                            </li>
-                                            <li class="single-menu-item">
-                                                <a href="search-engine-optimization.html"><i class="icon icon-search2"></i> Search Engine Optimization</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="#">BLOG</a>
-                                        <ul class="nav-dropdown xs-icon-menu clearfix">
-                                            <li class="single-menu-item">
-                                                <a href="blog-grid-with-sidebar.html"><i class="icon icon-file-2"></i>Blog Grid Sidebar</a>
-                                            </li>
-                                            <li class="single-menu-item">
-                                                <a href="blog-list.html"><i class="icon icon-file-2"></i>Blog List</a>
-                                            </li>
-                                            <li class="single-menu-item">
-                                                <a href="blog-single.html"><i class="icon icon-contract"></i>Blog single</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="contact.html">CONTACT</a></li>
+                                    <li><a href="contact.php">CONTACT</a></li>
                                 </ul>
                             </div>
                         </nav>
