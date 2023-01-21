@@ -29,11 +29,11 @@
             <div class="col-lg-6 align-self-center">
                 <div class="xs-info-wraper style2 wow fadeInUp">
                     <div class="xs-heading">
-                        <h2 class="section-title">We provide <br> best SEO service</h2>
+                        <h2 class="section-title">Welcome to <br> <?php echo $Company;?></h2>
                         <span class="line"></span>
                     </div>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-                    <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however</p>
+                    <p><?php echo $About[0];?></p>
+                    <p><?php echo $About[1];?></p>
                 </div><!-- .xs-info-wraper END -->
             </div>
             <div class="col-lg-6">

@@ -133,27 +133,27 @@
                                             <div class="row">
                                                 <div class="col-lg-4">
                                                     <div class="single-menu-item">
-                                                        <a href="about.html"><i class="icon icon-briefcase"></i>About</a>
+                                                        <a href="about.html"><i class="icon icon-briefcase"></i>Construction</a>
                                                     </div>
                                                     <div class="single-menu-item">
-                                                        <a href="case-studies.html"><i class="icon icon-line-chart"></i>Case Studies</a>
+                                                        <a href="case-studies.html"><i class="icon icon-line-chart"></i>Remodeling</a>
                                                     </div>
                                                     <div class="single-menu-item">
-                                                        <a href="case-details.html"><i class="icon icon-agenda3"></i>Case Details</a>
+                                                        <a href="case-details.html"><i class="icon icon-agenda3"></i>Roofing</a>
                                                     </div>
                                                     <div class="single-menu-item">
-                                                        <a href="faq.html"><i class="icon icon-question-circle"></i>FAQ</a>
+                                                        <a href="faq.html"><i class="icon icon-question-circle"></i>Landacaping</a>
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-4">
                                                     <div class="single-menu-item">
-                                                        <a href="team.html"><i class="icon icon-folder2"></i>Team</a>
+                                                        <a href="team.html"><i class="icon icon-folder2"></i>Concrete</a>
                                                     </div>
                                                     <div class="single-menu-item">
-                                                        <a href="map.html"><i class="icon icon-chat"></i>Map</a>
+                                                        <a href="map.html"><i class="icon icon-chat"></i>Pool services</a>
                                                     </div>
                                                     <div class="single-menu-item">
-                                                        <a href="shop.html"><i class="icon icon-shopping-cart-1"></i>Shop</a>
+                                                        <a href="shop.html"><i class="icon icon-shopping-cart-1"></i>Handyman</a>
                                                     </div>
                                                     <div class="single-menu-item">
                                                         <a href="shop-single.html"><i class="icon icon-wallet"></i>Shop Single</a>
@@ -161,10 +161,10 @@
                                                 </div>
                                                 <div class="col-lg-4">
                                                     <div class="single-menu-item">
-                                                        <a href="404.html"><i class="icon icon-padlock-1"></i>404</a>
+                                                        <a href="404.html"><i class="icon icon-padlock-1"></i>Home inprovement</a>
                                                     </div>
                                                     <div class="single-menu-item">
-                                                        <a href="pricing.html"><i class="icon icon-direction"></i>Pricing</a>
+                                                        <a href="pricing.html"><i class="icon icon-direction"></i>Cleaning</a>
                                                     </div>
                                                     <div class="single-menu-item">
                                                         <a href="typography.html"><i class="icon icon-agenda-1"></i>Typography</a>

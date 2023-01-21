@@ -9,9 +9,9 @@ elseif ($page_name=='thank-you.php') {$namepage="Thank You";}
 elseif ($page_name=='404.php') {$namepage="Not Found";}
 elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 //Info
-	$Company="Cafe Jinotegano Las Praderas";
-	$Domain='Cafejinotegano.foxartmedia.com';//No dejar pleca al final del dominio
-	$Address='Rotonda Centro America, Managua';
+	$Company="FoxArt Media";
+	$Domain='foxartmedia.com';//No dejar pleca al final del dominio
+	$Address='';
 
 	$PhoneName="Telefono";
 	$Phone='(505) 8825-8081';
@@ -21,15 +21,15 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 	$SEOConvert= str_replace(str_split(' '), '-', $PhoneConvert);
 	$SEOPhone='+505'.$SEOConvert;
 
-	$Mail="industrias.laspraderas@gmail.com";$MailRef="mailto:".$Mail;
-	$Services="Venta de cafe y Productos Derivados";
-	$Estimates="Cotizaciones o Adquisiciones al Por Mayor";
-	$Payment="Efectivo, Cheques, Tarjetas de Credito o Debito y Transferencias";
-	$Experience="";
-	$Schedule="Lunes a Viernes: 8:00am - 5:00pm";	
+	$Mail="admin@foxartmedia.com";$MailRef="mailto:".$Mail;
+	$Services="Web development, graphic design and marketing agency";
+	$Estimates="Free Estimate";
+	$Payment="Tarjetas de Credit or Debit,Transferencias paypal and zelle";
+	$Experience="10 experience year";
+	$Schedule="Monday to Fridays: 8:00am - 5:00pm";	
 	$Cover="";
 
-	$Facebook="https://www.facebook.com/CafeLaspraderas";
+	$Facebook="https://www.facebook.com/foxartmediasa";
 	$GoogleMap='<iframe class="map-size" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3900.97757028144!2d-86.25741189617352!3d12.113687148497766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f73fe200da0f8fb%3A0x18379fa307c5ebe8!2sCentroamerica%20Nte.%2C%20Managua!5e0!3m2!1ses!2sni!4v1665121161072!5m2!1ses!2sni" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>';
 	$Instagram="https://www.instagram.com/cafe_las_praderas/"; 
 
@@ -51,8 +51,8 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 		"por varios años, nos hemos dedicado en dar lo mejor de lo mejor en todo lo que hacemos y como lo hacemos en cuanto a nuestros cultivos y cosechas de cafe para brindarle a todos nuestros queridos clientes lo mejor de lo mejor. Desde nuestra Fundacion en Jinotega, Cafe Las Praderas ha logrado mantener siempre una sonrisa en el rostro de nuestros clientes, y podemos estar seguros de que usted no sera la excepcion.",	
 		);
 	$About = array(
-		"El excelente Cafe que ofrecemos, es el resultado de un balance perfecto entre sabor, aroma, y acidez. Dificil de encontrar en algun otro lugar.",
-		"Nuestros horarios comienzan de Lunes a Viernes, de 8:00 AM hasta las 5:00 PM; tambien extendemos nuestra excelencia en un rango de mas de 10KM alrededor de la Rotonda Centro America entre Super Mercados y tiendas de conveniencia. Que esperas para contactarnos? Somos la mejor Compañia Cafetalera para ti.",
+		"Welcome to FoxArt Media, a full-service marketing agency dedicated to helping businesses of all sizes achieve their goals. We understand that every brand is unique and requires a tailored approach to succeed. That's why we offer a wide range of services including branding, social media management, SEO, PPC, and content creation. ",
+		"Our team of experts work closely with clients to understand their needs and develop a strategy that will deliver results. Whether you're looking to increase brand awareness, drive traffic, or boost sales, we've got you covered. Let us help you take your brand to the next level. Contact us today to schedule a consultation.",
 		);
 //Services
 	$SN[1]="Granos de cafe";
