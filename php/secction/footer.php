@@ -21,7 +21,8 @@
                             </li-->
                             <li>
                                 <div class="address-icon"><img src="images/massage.png" alt=""></div>
-                                <div class="address-info"><a href="tel:009-215-5596">323-679-xxxx</a> ( Toll free ) <br> <a href="mailto:info@example.com"><?php echo $mail;?><</a></div>
+                                <div class="address-info"><a href="tel:323-679596">(323)679-xxxx</a><br> 
+                                <a href="mailto:contact@foxartmedia.com">contact@foxartmedia.com</a></div>
                             </li>
                         </ul>
                         <!-- .address-info-list END -->
@@ -135,7 +136,7 @@
                     </div>
                     <div class="col-md-6">
                         <ul class="social-list">
-                            <li><a href="https://www.facebook.com/" class="facebook"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://www.facebook.com/foxartmediasa" class="facebook"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="https://twitter.com/" class="twitter"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="https://bd.linkedin.com/" class="linkedin"><i class="fa fa-linkedin"></i></a></li>
                             <li><a href="https://www.instagram.com/" class="instagram"><i class="fa fa-instagram"></i></a></li>
