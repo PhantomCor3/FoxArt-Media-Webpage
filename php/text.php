@@ -21,7 +21,10 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 	$SEOConvert= str_replace(str_split(' '), '-', $PhoneConvert);
 	$SEOPhone='+505'.$SEOConvert;
 
-	$Mail="admin@foxartmedia.com";$MailRef="mailto:".$Mail;
+	$Mail2="admin@foxartmedia.com";$MailRef="mailto:".$Mail2;
+	
+
+	$Mail="contact@foxartmedia.com";$MailRef="mailto:".$Mail;
 	$Services="Web development, graphic design and marketing agency";
 	$Estimates="Free Estimate";
 	$Payment="Tarjetas de Credit or Debit,Transferencias paypal and zelle";

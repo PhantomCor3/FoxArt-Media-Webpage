@@ -13,15 +13,15 @@
                     </div>
                     <div class="col-md-8">
                         <ul class="address-info-list list-inline">
-                            <li>
+                            <!--li>
                                 <div class="address-icon">
                                     <img src="images/pin.png" alt="">
                                 </div>
                                 <div class="address-info"><a href="https://www.google.com/maps/place/1010+Grand+St,+Brooklyn,+NY+11211,+USA/@40.7133521,-73.9370686,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25954b2d0b20d:0xb03e8d55cdb687bc!8m2!3d40.7133521!4d-73.9348799">1010 Grand Avenue <br> New York, USA</a></div>
-                            </li>
+                            </li-->
                             <li>
                                 <div class="address-icon"><img src="images/massage.png" alt=""></div>
-                                <div class="address-info"><a href="tel:009-215-5596">009-215-5596</a> ( Toll free ) <br> <a href="mailto:info@example.com">info@example.com</a></div>
+                                <div class="address-info"><a href="tel:009-215-5596">323-679-xxxx</a> ( Toll free ) <br> <a href="mailto:info@example.com"><?php echo $mail;?><</a></div>
                             </li>
                         </ul>
                         <!-- .address-info-list END -->
