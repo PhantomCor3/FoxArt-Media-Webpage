@@ -544,7 +544,7 @@
         			16. contact form init
         ======================================================================*/
 
-        $(document).on('submit', '#xs-contact-form', function(event) {
+        $(document).on('submit', 'xs-contact-form', function(event) {
             event.preventDefault(); /* Act on the event */
 
             /* declare a variable */

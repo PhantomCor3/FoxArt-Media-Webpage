@@ -124,6 +124,11 @@
                             <input type="submit" name="submit" value="Submit" class="btn btn-primary style2" id="xs_contact_submit">
                         </div>
                     </form><!-- .xs-from 3xs-contact-form END -->
+
+
+
+
+                    
                 </div><!-- .contact-from-wraper END -->
             </div>
         </div><!-- .row END -->

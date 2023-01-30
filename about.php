@@ -4,21 +4,21 @@
 <!-- inner banenr start -->
 <!--breadcumb start here-->
 <section class="inner-banner-area">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<div class="inner-banner-content">
-					<h1 class="inner-banner-title">About Our Agency</h1>
-					<ul class="breadcumbs list-inline">
-						<li><a href="index.html">Home</a></li>
-						<li>About</li>
-					</ul>
-					<span class="border-divider style-white"></span>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="banner-image" style="background-image:url('images/backgrounds/background-1.jpg')"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="inner-banner-content">
+                    <h1 class="inner-banner-title">About Our Agency</h1>
+                    <ul class="breadcumbs list-inline">
+                        <li><a href="index.html">Home</a></li>
+                        <li>About</li>
+                    </ul>
+                    <span class="border-divider style-white"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="banner-image" style="background-image:url('images/backgrounds/background-1.jpg')"></div>
 </section>
 <!--breadcumb end here--><!-- inner banenr end -->
 
@@ -29,11 +29,11 @@
             <div class="col-lg-6 align-self-center">
                 <div class="xs-info-wraper style2 wow fadeInUp">
                     <div class="xs-heading">
-                        <h2 class="section-title">Welcome to <br> <?php echo $Company;?></h2>
+                        <h2 class="section-title">Welcome to <br> <?php echo $Company; ?></h2>
                         <span class="line"></span>
                     </div>
-                    <p><?php echo $About[0];?></p>
-                    <p><?php echo $About[1];?></p>
+                    <p><?php echo $About[0]; ?></p>
+                    <p><?php echo $About[1]; ?></p>
                 </div><!-- .xs-info-wraper END -->
             </div>
             <div class="col-lg-6">
@@ -140,7 +140,7 @@
             </div>
         </div><!-- .row end -->
         <div class="btn-wraper text-center">
-            <a href="#" class="btn btn-primary style2 icon-left"><i class="icon icon-envelope4"></i> Click here to get Subscribe</a>
+            <a href="#" class="btn btn-primary style2 icon-left"><i class="icon icon-envelope4"></i> Click here to get Estimate </a>
         </div>
     </div><!-- .container END -->
 </section><!-- END fun fact section -->
@@ -152,10 +152,10 @@
             <div class="col-lg-6 align-self-center">
                 <div class="xs-info-wraper style2 wow fadeInUp">
                     <div class="xs-heading">
-                        <h3 class="section-title">Our Vision</h3>
+                        <h3 class="section-title">Our Mision</h3>
                         <span class="line"></span>
                     </div>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarks grove right at the coast of the Semantics, a large language ocean.</p>
+                    <p>Our mission is to drive the growth and success of our clients by providing innovative, data-driven marketing solutions that deliver measurable results.</p>
                     <ul class="xs-list check">
                         <li>Separated they live in Bookmarksgrove</li>
                         <li>Right at the coast of</li>
@@ -176,109 +176,76 @@
     </div><!-- .container END -->
 </section><!-- END seo info section -->
 
-<!-- team section -->
-<section class="xs-section-padding">
+
+<!-- seo info section -->
+<section class="xs-section-padding xs-seo-info" id="about">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 mx-auto">
-                <div class="xs-heading text-center">
-                    <h2 class="section-subtitle">Interested!</h2>
-                    <h3 class="section-title">Meet Our Team</h3>
-                    <span class="line"></span>
-                </div>    
+            <div class="col-lg-6">
+                <div class="xs-info-img">
+                    <img src="images/info/info-1.png" alt="">
+                </div>
             </div>
-        </div><!-- .row END -->
+            <div class="col-lg-6 align-self-center">
+                <div class="xs-info-wraper wow fadeInUp">
+                    <div class="xs-heading">
+                        <h3 class="section-title">Our Vision</h3>
+                        <span class="line"></span>
+                    </div>
+                    <p>Our vision is to be the leading provider of marketing services in our industry, known for our expertise, creativity, and commitment to delivering results for our clients.</p>
+                    <ul class="xs-list check">
+                        <li>We've been supporting WordPress since the beginning.</li>
+                        <li>Perfect for large sites or agencies managing multiple clients.</li>
+                        <li>Our easy-to-use control panel and API let you spend</li>
+                    </ul>
+                    <a href="#" class="btn btn-secondary">Get Started</a>
+                </div>
+                <!-- .xs-info-wraper END -->
+            </div>
+        </div>
+        <!-- .row END -->
+    </div>
+    <!-- .container END -->
+</section>
+<!-- END seo info section -->
+
+
+
+
+<section class="xs-section-padding gray-bg">
+    <div class="container">
         <div class="row">
-            <div class="col-lg-3 col-md-6">
-                <div class="single-box text-center">
-                    <div class="image">
-                        <img src="images/team/team-1.jpg" alt="">
-                        <div class="hover-area">
-                            <h4 class="title"><a href="#">Grace Charlotte</a></h4>
-                            <p class="description">SEO Expert</p>
-                            <span class="line"></span>
-                            <ul class="xs-list list-inline">
-                                <li><a href="https://www.facebook.com/"><i class="icon icon-facebook"></i></a></li>
-                                <li><a href="https://twitter.com/"><i class="icon icon-twitter"></i></a></li>
-                                <li><a href="https://plus.google.com/discover"><i class="icon icon-google-plus"></i></a></li>
-                                <li><a href="https://bd.linkedin.com/"><i class="icon icon-linkedin"></i></a></li>
-                            </ul>
-                        </div><!-- .hover-area END -->
-                    </div><!-- .image END -->
-                    <div class="box-footer">
-                        <h4 class="title"><a href="#">Grace Charlotte</a></h4>
-                    </div><!-- .box-footer END -->
-                </div><!-- .single-box END -->
+            <div class="col-lg-6 align-self-center">
+                <div class="xs-info-wraper style2 wow fadeInUp">
+                    <div class="xs-heading">
+                        <h3 class="section-title">Our Values</h3>
+                        <span class="line"></span>
+                    </div>
+                    <p>Our mission is to drive the growth and success of our clients by providing innovative, data-driven marketing solutions that deliver measurable results.</p>
+                    <ul class="xs-list check">
+                        <li>Innovation: We are constantly seeking new and better ways to do things, and we encourage our team members to think outside the box.</li>
+                        <li>Data-Driven Decision Making: We base our decisions on hard data and analytics, to ensure that we are always making the best possible choices for our clients.</li>
+                        <li>Results-Oriented: We are focused on delivering measurable results for our clients, and we are constantly seeking new ways to improve their ROI.</li>
+                        <li>Collaboration: We believe that by working closely with our clients, we can achieve the best possible results.</li>
+                        <li>Ethics: We always conduct our business with integrity and in accordance with the highest ethical standards.</li>
+                    </ul>
+                    <div class="btn-wraper">
+                        <a href="#" class="btn btn-primary style2 icon-right"><i class="icon icon-arrow-right"></i>Get Our Service</a>
+                    </div>
+                </div><!-- .xs-info-wraper END -->
             </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="single-box text-center">
-                    <div class="image">
-                        <img src="images/team/team-2.jpg" alt="">
-                        <div class="hover-area">
-                            <h4 class="title"><a href="#">Aaron Brayden</a></h4>
-                            <p class="description">Marketing Expert</p>
-                            <span class="line"></span>
-                            <ul class="xs-list list-inline">
-                                <li><a href="https://www.facebook.com/"><i class="icon icon-facebook"></i></a></li>
-                                <li><a href="https://twitter.com/"><i class="icon icon-twitter"></i></a></li>
-                                <li><a href="https://plus.google.com/discover"><i class="icon icon-google-plus"></i></a></li>
-                                <li><a href="https://bd.linkedin.com/"><i class="icon icon-linkedin"></i></a></li>
-                            </ul>
-                        </div><!-- .hover-area END -->
-                    </div><!-- .image END -->
-                    <div class="box-footer">
-                        <h4 class="title"><a href="#">Aaron Brayden</a></h4>
-                    </div><!-- .box-footer END -->
-                </div><!-- .single-box END -->
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="single-box text-center">
-                    <div class="image">
-                        <img src="images/team/team-3.jpg" alt="">
-                        <div class="hover-area">
-                            <h4 class="title"><a href="#">Samantha  Nicole</a></h4>
-                            <p class="description">Graphic Designer</p>
-                            <span class="line"></span>
-                            <ul class="xs-list list-inline">
-                                <li><a href="https://www.facebook.com/"><i class="icon icon-facebook"></i></a></li>
-                                <li><a href="https://twitter.com/"><i class="icon icon-twitter"></i></a></li>
-                                <li><a href="https://plus.google.com/discover"><i class="icon icon-google-plus"></i></a></li>
-                                <li><a href="https://bd.linkedin.com/"><i class="icon icon-linkedin"></i></a></li>
-                            </ul>
-                        </div><!-- .hover-area END -->
-                    </div><!-- .image END -->
-                    <div class="box-footer">
-                        <h4 class="title"><a href="#">Samantha  Nicole</a></h4>
-                    </div><!-- .box-footer END -->
-                </div><!-- .single-box END -->
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="single-box text-center">
-                    <div class="image">
-                        <img src="images/team/team-4.jpg" alt="">
-                        <div class="hover-area">
-                            <h4 class="title"><a href="#">Samuel Jeremy</a></h4>
-                            <p class="description">WEB Expert</p>
-                            <span class="line"></span>
-                            <ul class="xs-list list-inline">
-                                <li><a href="https://www.facebook.com/"><i class="icon icon-facebook"></i></a></li>
-                                <li><a href="https://twitter.com/"><i class="icon icon-twitter"></i></a></li>
-                                <li><a href="https://plus.google.com/discover"><i class="icon icon-google-plus"></i></a></li>
-                                <li><a href="https://bd.linkedin.com/"><i class="icon icon-linkedin"></i></a></li>
-                            </ul>
-                        </div><!-- .hover-area END -->
-                    </div><!-- .image END -->
-                    <div class="box-footer">
-                        <h4 class="title"><a href="#">Samuel Jeremy</a></h4>
-                    </div><!-- .box-footer END -->
-                </div><!-- .single-box END -->
+            <div class="col-lg-6">
+                <div class="xs-info-img">
+                    <img src="images/info/info-2.png" alt="">
+                </div>
             </div>
         </div><!-- .row END -->
     </div><!-- .container END -->
-</section><!-- END team section -->
+</section><!-- END seo info section -->
+
 
 <!-- we are hiring section -->
-<section class="xs-section-padding pt-0">
+<!--section class="xs-section-padding pt-0">
     <div class="container">
         <div class="row">
             <div class="col-md-5">
@@ -291,8 +258,8 @@
                     <h2><span>We’re Hiring!</span> Interested to working with our Team?</h2>
                     <a href="contact.html" class="btn btn-primary style2 icon-left"><i class="icon icon-envelope4"></i> Drop you resume here</a>
                 </div>
-            </div>
-        </div><!-- .row END -->
-    </div><!-- .container END -->
-</section><!-- end we are hiring section -->
+            </div-->
+        <!--/div--><!-- .row END -->
+    <!--/div--><!-- .container END -->
+<!--/section--><!-- end we are hiring section -->
 <?php include('php/secction/footer.php') ?>

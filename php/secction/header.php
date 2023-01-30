@@ -90,7 +90,7 @@
                 <div class="row">
                     <div class="col-lg-3">
                         <div class="xs-logo-wraper">
-                            <a href="index.html" class="xs-logo">
+                            <a href="index.php" class="xs-logo">
                                 <img src="images/logo-transparent-header.png" alt="" class="logo-transparent">
                                 <img src="images/logo.png" alt="" class="logo-sticky">
                             </a>
@@ -99,7 +99,7 @@
                     <div class="col-lg-7 col-md-6">
                         <nav class="xs-menus align-to-right">
                             <div class="nav-header">
-                                <a class="nav-brand" href="index.html"></a>
+                                <a class="nav-brand" href="index.php"></a>
                                 <div class="nav-toggle"></div>
                             </div>
                             <div class="nav-menus-wrapper">
@@ -112,19 +112,19 @@
                                                 <a href="email-marketing.php"><i class="icon icon-envelope2"></i> Email Marketing</a>
                                             </li>
                                             <li class="single-menu-item">
-                                                <a href="offline-seo.html"><i class="icon icon-dart-board"></i> Offline SEO</a>
+                                                <a href="offline-seo.php"><i class="icon icon-dart-board"></i> Offline SEO</a>
                                             </li>
                                             <li class="single-menu-item">
-                                                <a href="social-media-marketing.html"><i class="icon icon-like"></i> Social Media Marketing</a>
+                                                <a href="social-media-marketing.php"><i class="icon icon-like"></i> Social Media Marketing</a>
                                             </li>
                                             <li class="single-menu-item">
-                                                <a href="lead-generation.html"><i class="icon icon-stats-3"></i> Lead Generation</a>
+                                                <a href="lead-generation.php"><i class="icon icon-stats-3"></i> Lead Generation</a>
                                             </li>
                                             <li class="single-menu-item">
-                                                <a href="growth-hacking.html"><i class="icon icon-stats-4"></i> Growth Hacking</a>
+                                                <a href="growth-hacking.php"><i class="icon icon-stats-4"></i> Growth Hacking</a>
                                             </li>
                                             <li class="single-menu-item">
-                                                <a href="search-engine-optimization.html"><i class="icon icon-search2"></i> Search Engine Optimization</a>
+                                                <a href="search-engine-optimization.php"><i class="icon icon-search2"></i> Search Engine Optimization</a>
                                             </li>
                                         </ul>
                                     </li>
@@ -133,44 +133,44 @@
                                             <div class="row">
                                                 <div class="col-lg-4">
                                                     <div class="single-menu-item">
-                                                        <a href="about.html"><i class="icon icon-planet-earth"></i>Construction</a>
+                                                        <a href="about.php"><i class="icon icon-planet-earth"></i>Construction</a>
                                                     </div>
                                                     <div class="single-menu-item">
-                                                        <a href="case-studies.html"><i class="icon icon-planet-earth"></i>Remodeling</a>
+                                                        <a href="case-studies.php"><i class="icon icon-planet-earth"></i>Remodeling</a>
                                                     </div>
                                                     <div class="single-menu-item">
-                                                        <a href="case-details.html"><i class="icon icon-planet-earth"></i>Roofing</a>
+                                                        <a href="case-details.php"><i class="icon icon-planet-earth"></i>Roofing</a>
                                                     </div>
                                                     <div class="single-menu-item">
-                                                        <a href="faq.html"><i class="icon icon-planet-earth"></i>Landscaping</a>
-                                                    </div>
-                                                </div>
-                                                <div class="col-lg-4">
-                                                    <div class="single-menu-item">
-                                                        <a href="team.html"><i class="icon icon-planet-earth"></i>Concrete</a>
-                                                    </div>
-                                                    <div class="single-menu-item">
-                                                        <a href="map.html"><i class="icon icon-planet-earth"></i>Pool services</a>
-                                                    </div>
-                                                    <div class="single-menu-item">
-                                                        <a href="shop.html"><i class="icon icon-planet-earth"></i>Handyman</a>
-                                                    </div>
-                                                    <div class="single-menu-item">
-                                                        <a href="shop-single.html"><i class="icon icon-shopping-cart"></i>Shop </a>
+                                                        <a href="faq.php"><i class="icon icon-planet-earth"></i>Landscaping</a>
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-4">
                                                     <div class="single-menu-item">
-                                                        <a href="404.html"><i class="icon icon-planet-earth"></i>Home inprovement</a>
+                                                        <a href="team.php"><i class="icon icon-planet-earth"></i>Concrete</a>
                                                     </div>
                                                     <div class="single-menu-item">
-                                                        <a href="pricing.html"><i class="icon icon-planet-earth"></i>Cleaning</a>
+                                                        <a href="map.php"><i class="icon icon-planet-earth"></i>Pool services</a>
                                                     </div>
                                                     <div class="single-menu-item">
-                                                        <a href="typography.html"><i class="icon icon-planet-earth"></i>Typography</a>
+                                                        <a href="shop.php"><i class="icon icon-planet-earth"></i>Handyman</a>
                                                     </div>
                                                     <div class="single-menu-item">
-                                                        <a href="testimonial.html"><i class="icon icon-users"></i>Testimonial</a>
+                                                        <a href="shop-single.php"><i class="icon icon-shopping-cart"></i>Shop </a>
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-4">
+                                                    <div class="single-menu-item">
+                                                        <a href="404.php"><i class="icon icon-planet-earth"></i>Home inprovement</a>
+                                                    </div>
+                                                    <div class="single-menu-item">
+                                                        <a href="pricing.php"><i class="icon icon-planet-earth"></i>Cleaning</a>
+                                                    </div>
+                                                    <div class="single-menu-item">
+                                                        <a href="typography.php"><i class="icon icon-planet-earth"></i>Typography</a>
+                                                    </div>
+                                                    <div class="single-menu-item">
+                                                        <a href="testimonial.php"><i class="icon icon-users"></i>Testimonial</a>
                                                     </div>
                                                 </div>
                                             </div>
