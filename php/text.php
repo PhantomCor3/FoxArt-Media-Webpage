@@ -11,7 +11,7 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 //Info
 	$Company="FoxArt Media";
 	$Domain='foxartmedia.com';//No dejar pleca al final del dominio
-	$Address='';
+	$Address=''; 
 
 	$PhoneName="Telefono";
 	$Phone='(505) 8825-8081';
@@ -21,7 +21,7 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 	$SEOConvert= str_replace(str_split(' '), '-', $PhoneConvert);
 	$SEOPhone='+505'.$SEOConvert;
 
-	$Mail2="admin@foxartmedia.com";$MailRef="mailto:".$Mail2;
+	$Mail2="info@foxartmedia.com";$MailRef="mailto:".$Mail2;
 	
 
 	$Mail="contact@foxartmedia.com";$MailRef="mailto:".$Mail;

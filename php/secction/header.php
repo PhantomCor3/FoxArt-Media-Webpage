@@ -181,22 +181,7 @@
                             </div>
                         </nav>
                     </div>
-                    <div class="col-lg-2 col-md-6">
-                        <ul class="xs-menu-tools">
-                            <li>
-                                <a href="#modal-popup-1" class="languageSwitcher-button xs-modal-popup">
-                                    <span class="xs-flag" style="background-image: url(images/flags/006-united-states.svg);"></span>
-                                    <span class="lang-title">EN</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" class="offset-side-bar"><i class="icon icon-online-shopping-cart"></i></a>
-                            </li>
-                            <li>
-                                <a href="#modal-popup-2" class="navsearch-button xs-modal-popup"><i class="icon icon-search"></i></a>
-                            </li>
-                        </ul>
-                    </div>
+                    
                 </div>
                 <!-- .row END -->
                 <div class="navSidebar-wraper clearfix">

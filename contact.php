@@ -61,7 +61,7 @@
                                 <div class="round-icon">
                                     <i class="icon icon-envelope4"></i>
                                 </div><!-- .round-icon END -->
-                                <a href="mailto:info@website.com" class="info-content">admin@foxartmedia.com</a>
+                                <a href="mailto:info@website.com" class="info-content">info@foxartmedia.com</a>
                                 <a href="mailto:sales@website.com" class="info-content">contact@foxartmedia.com</a>
                             </div><!-- .single-contact-info END -->
                         </div>
@@ -98,7 +98,7 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="form-group">
-                                    <input type="text" name="name" id="xs_contact_name" class="form-control" placeholder="Name *">
+                                    <input type="text" name="fullname" id="xs_contact_name" class="form-control" placeholder="Name *">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -113,12 +113,12 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="form-group">
-                                    <input type="text" name="subject" id="xs_contact_subject" class="form-control" placeholder="Subject">
+                                    <input type="text" name="textsubjet" id="xs_contact_subject" class="form-control" placeholder="Subject">
                                 </div>
                             </div>
                         </div><!-- .row END -->
                         <div class="form-group">
-                            <textarea name="massage" id="x_contact_massage" class="form-control" placeholder="Your Message *" cols="30" rows="10"></textarea>
+                            <textarea name="message" id="x_contact_massage" class="form-control" placeholder="Your Message *" cols="30" rows="10"></textarea>
                         </div>
                         <div class="text-center">
                             <input type="submit" name="submit" value="Submit" class="btn btn-primary style2" id="xs_contact_submit">

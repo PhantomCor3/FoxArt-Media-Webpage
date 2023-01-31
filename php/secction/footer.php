@@ -136,7 +136,7 @@
                     </div>
                     <div class="col-md-6">
                         <ul class="social-list">
-                            <li><a href="https://www.facebook.com/foxartmediasa" class="facebook"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="<?php echo $Facebook;?>" class="facebook"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="https://twitter.com/" class="twitter"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="https://bd.linkedin.com/" class="linkedin"><i class="fa fa-linkedin"></i></a></li>
                             <li><a href="https://www.instagram.com/" class="instagram"><i class="fa fa-instagram"></i></a></li>

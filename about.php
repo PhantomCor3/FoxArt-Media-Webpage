@@ -262,4 +262,7 @@
         <!--/div--><!-- .row END -->
     <!--/div--><!-- .container END -->
 <!--/section--><!-- end we are hiring section -->
+
+<?php include('php/secction/seccion-extra.php') ?>
+
 <?php include('php/secction/footer.php') ?>

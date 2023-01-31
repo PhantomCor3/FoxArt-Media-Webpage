@@ -21,7 +21,7 @@
                             <p class="description">SEO Expert</p>
                             <span class="line"></span>
                             <ul class="xs-list list-inline">
-                                <li><a href="https://www.facebook.com/"><i class="icon icon-facebook"></i></a></li>
+                                <li><a href="<?php echo $Facebook;?>"><i class="icon icon-facebook"></i></a></li>
                                 <li><a href="https://twitter.com/"><i class="icon icon-twitter"></i></a></li>
                                 <li><a href="https://plus.google.com/discover"><i class="icon icon-google-plus"></i></a></li>
                                 <li><a href="https://bd.linkedin.com/"><i class="icon icon-linkedin"></i></a></li>
@@ -42,7 +42,7 @@
                             <p class="description">Marketing Expert</p>
                             <span class="line"></span>
                             <ul class="xs-list list-inline">
-                                <li><a href="https://www.facebook.com/"><i class="icon icon-facebook"></i></a></li>
+                                <li><a href="<?php echo $Facebook;?>"><i class="icon icon-facebook"></i></a></li>
                                 <li><a href="https://twitter.com/"><i class="icon icon-twitter"></i></a></li>
                                 <li><a href="https://plus.google.com/discover"><i class="icon icon-google-plus"></i></a></li>
                                 <li><a href="https://bd.linkedin.com/"><i class="icon icon-linkedin"></i></a></li>
@@ -63,7 +63,7 @@
                             <p class="description">Graphic Designer</p>
                             <span class="line"></span>
                             <ul class="xs-list list-inline">
-                                <li><a href="https://www.facebook.com/"><i class="icon icon-facebook"></i></a></li>
+                                <li><a href="<?php echo $Facebook;?>"><i class="icon icon-facebook"></i></a></li>
                                 <li><a href="https://twitter.com/"><i class="icon icon-twitter"></i></a></li>
                                 <li><a href="https://plus.google.com/discover"><i class="icon icon-google-plus"></i></a></li>
                                 <li><a href="https://bd.linkedin.com/"><i class="icon icon-linkedin"></i></a></li>
@@ -84,7 +84,7 @@
                             <p class="description">WEB Expert</p>
                             <span class="line"></span>
                             <ul class="xs-list list-inline">
-                                <li><a href="https://www.facebook.com/"><i class="icon icon-facebook"></i></a></li>
+                                <li><a href="<?php echo $Facebook;?>"><i class="icon icon-facebook"></i></a></li>
                                 <li><a href="https://twitter.com/"><i class="icon icon-twitter"></i></a></li>
                                 <li><a href="https://plus.google.com/discover"><i class="icon icon-google-plus"></i></a></li>
                                 <li><a href="https://bd.linkedin.com/"><i class="icon icon-linkedin"></i></a></li>

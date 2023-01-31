@@ -1,9 +1,9 @@
 <?php 
 
 /*********** Config ***************/
-$companyName = "Cafe Jinotegano Las Praderas";
-$companyEmail = "industrias.laspraderas@gmail.com"; //1,2,3... correos
-$emailForThanks = "industrias.laspraderas@gmail.com"; // 1 correo nada mas
+$companyName = "FoxArt Media";
+$companyEmail = "contact.foxartmedia.com"; //1,2,3... correos
+$emailForThanks = "contact.foxartmedia.com"; // 1 correo nada mas
 session_start();
 
 if($_POST){
