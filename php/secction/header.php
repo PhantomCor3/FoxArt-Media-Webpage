@@ -4,7 +4,7 @@
 
 <html class="no-js" lang="en">
 
-<head>
+<head>  
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
@@ -161,17 +161,17 @@
                                                 </div>
                                                 <div class="col-lg-4">
                                                     <div class="single-menu-item">
-                                                        <a href="404.php"><i class="icon icon-planet-earth"></i>Home inprovement</a>
+                                                        <a href="404.php"><i class="icon icon-planet-earth"></i>Home Improvement</a>
                                                     </div>
                                                     <div class="single-menu-item">
                                                         <a href="pricing.php"><i class="icon icon-planet-earth"></i>Cleaning</a>
                                                     </div>
-                                                    <div class="single-menu-item">
+                                                    <!--div class="single-menu-item">
                                                         <a href="typography.php"><i class="icon icon-planet-earth"></i>Typography</a>
                                                     </div>
                                                     <div class="single-menu-item">
                                                         <a href="testimonial.php"><i class="icon icon-users"></i>Testimonial</a>
-                                                    </div>
+                                                    </div-->
                                                 </div>
                                             </div>
                                         </div>

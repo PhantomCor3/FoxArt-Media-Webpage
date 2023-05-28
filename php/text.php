@@ -9,9 +9,9 @@ elseif ($page_name=='thank-you.php') {$namepage="Thank You";}
 elseif ($page_name=='404.php') {$namepage="Not Found";}
 elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 //Info
-	$Company="FoxArt Media";
+	$Company="Fox Art Media";
 	$Domain='foxartmedia.com';//No dejar pleca al final del dominio
-	$Address=''; 
+	$Address='Kansas City, Kasnas'; 
 
 	$PhoneName="Telefono";
 	$Phone='(505) 8825-8081';
@@ -27,14 +27,14 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 	$Mail="contact@foxartmedia.com";$MailRef="mailto:".$Mail;
 	$Services="Web development, graphic design and marketing agency";
 	$Estimates="Free Estimate";
-	$Payment="Tarjetas de Credit or Debit,Transferencias paypal and zelle";
+	$Payment="Credit Cards or Debit,Transferences, Paypal, Zelle and Cash App";
 	$Experience="10 experience year";
 	$Schedule="Monday to Fridays: 8:00am - 5:00pm";	
 	$Cover="";
 
 	$Facebook="https://www.facebook.com/foxartmediasa";
 	$GoogleMap='<iframe class="map-size" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3900.97757028144!2d-86.25741189617352!3d12.113687148497766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f73fe200da0f8fb%3A0x18379fa307c5ebe8!2sCentroamerica%20Nte.%2C%20Managua!5e0!3m2!1ses!2sni!4v1665121161072!5m2!1ses!2sni" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>';
-	$Instagram="https://www.instagram.com/cafe_las_praderas/"; 
+	$Instagram="https://www.instagram.com//"; 
 
 
 //Phrases
